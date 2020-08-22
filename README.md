@@ -1,1 +1,1 @@
-# lab
+# peculiar-nic
